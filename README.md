@@ -20,27 +20,3 @@ This repository contains 10 intermediate level HTML & CSS projects.
 ## 📸 Preview
 
 Each project has its own folder with source code.
-
----
-
-## 📂 Folder Structure
-HTML CSS Project 2026/
-├── project-1/                 # Blog landing page
-│   ├── index.html
-│   ├── styles.css
-│   └── images/
-├── project-2/                 # ------
-│   ├── index.html
-│   ├── styles.css
-│   └── images/
-├── project-3/                 # ------
-│   ├── index.html
-│   ├── styles.css
-│   └── images/
-
-....
-
-└── project-10/                # ------
-    ├── index.html
-    ├── styles.css
-    └── images/
