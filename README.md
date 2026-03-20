@@ -24,4 +24,21 @@ Each project has its own folder with source code.
 ---
 
 ## 📂 Folder Structure
-
+HTML-CSS-Projects/
+│
+├── README.md
+├── project-1-Blog-page/
+│   ├── index.html
+│   ├── style.css
+│   └── images/
+│
+├── project-2-login-form/
+│   ├── index.html
+│   ├── style.css
+│
+├── project-3-portfolio/
+│   ├── index.html
+│   ├── style.css
+│
+...
+├── project-10-blog-layout/
