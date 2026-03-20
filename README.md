@@ -1,5 +1,27 @@
-# Welcome to GitHub Desktop!
+# 🌐 HTML & CSS Projects
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repository contains 10 intermediate level HTML & CSS projects.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## 📁 Projects List
+ 
+1. Blog Layout  
+
+---
+
+## 🚀 Tech Used
+
+- HTML5
+- CSS3
+- Flexbox
+- Grid
+
+---
+
+## 📸 Preview
+
+Each project has its own folder with source code.
+
+---
+
+## 📂 Folder Structure
+
