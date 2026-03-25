@@ -20,8 +20,3 @@ This repository contains 10 intermediate level HTML & CSS projects.
 ## 📸 Preview
 
 Each project has its own folder with source code.
-
----
-
-## 📂 Folder Structure
-
