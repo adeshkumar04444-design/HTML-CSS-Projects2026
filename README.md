@@ -5,6 +5,7 @@ This repository contains 10 intermediate level HTML & CSS projects.
 ## 📁 Projects List
  
 1. Blog Layout  
+2. Food Banner
 
 ---
 
